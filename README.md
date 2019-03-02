@@ -8,7 +8,11 @@ Home Screen:
 
 Invoking Web link:
 
+http://www.sjsu.edu
+
 <img width="250" alt="website_url_to_open" src="https://user-images.githubusercontent.com/44592616/53688021-dcc20b00-3cf1-11e9-8721-0d38e0f31886.PNG">   <img width="250" alt="webpage_opened" src="https://user-images.githubusercontent.com/44592616/53688028-0c711300-3cf2-11e9-9617-86387f5a0085.PNG">
+
+https://www.github.com
 
 
 
