@@ -32,6 +32,8 @@ Call back from first emulator:
 
 Closing the application:
 
+<img width="246" alt="implicit_intent_home_screen" src="https://user-images.githubusercontent.com/44592616/53688095-61f9ef80-3cf3-11e9-9769-7fbfc57fe661.PNG">
+
 
 
 
