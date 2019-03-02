@@ -28,7 +28,7 @@ Using two emulators to test the phone call functionality:
 
 Call back from first emulator:
 
-<img width="255" alt="capture3" src="https://user-images.githubusercontent.com/44592616/53688084-27905280-3cf3-11e9-875a-2d1fb0a30bb5.PNG">
+<img width="255" alt="capture3" src="https://user-images.githubusercontent.com/44592616/53688084-27905280-3cf3-11e9-875a-2d1fb0a30bb5.PNG">  <img width="249" alt="dialling_on_other_emulator" src="https://user-images.githubusercontent.com/44592616/53688089-3ecf4000-3cf3-11e9-91a2-a4a740243fb8.PNG">
 
 
 
