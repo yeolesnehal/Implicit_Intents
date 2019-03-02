@@ -24,7 +24,7 @@ Using single emulator to test the phone call functionality:
 
 Using two emulators to test the phone call functionality:
 
-
+<img width="248" alt="capture1" src="https://user-images.githubusercontent.com/44592616/53688061-cd8f8d00-3cf2-11e9-8d21-5bd3b37b5dd2.PNG">
 
 
 
