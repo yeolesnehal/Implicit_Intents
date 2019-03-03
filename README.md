@@ -20,7 +20,7 @@ Invoking Phone Call:
 
 Using single emulator to test the phone call functionality:
 
-<img width="248" alt="phone_number_to_dial" src="https://user-images.githubusercontent.com/44592616/53688046-7a1d3f00-3cf2-11e9-8587-f189b1312d97.PNG">  <img width="249" alt="number_dialled" src="https://user-images.githubusercontent.com/44592616/53688048-8acdb500-3cf2-11e9-8da1-576bebbca117.PNG">
+<img width="248" alt="phone_number_to_dial" src="https://user-images.githubusercontent.com/44592616/53688046-7a1d3f00-3cf2-11e9-8587-f189b1312d97.PNG">  <img width="249" alt="onclick_ring_button" src="https://user-images.githubusercontent.com/44592616/53690562-e2374980-3d21-11e9-8136-8bd376ee8dfd.PNG">  <img width="249" alt="number_dialled" src="https://user-images.githubusercontent.com/44592616/53688048-8acdb500-3cf2-11e9-8da1-576bebbca117.PNG">
 
 Using two emulators to test the phone call functionality:
 
